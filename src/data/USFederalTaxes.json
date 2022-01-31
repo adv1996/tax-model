@@ -1,0 +1,56 @@
+[
+  {
+    "year": 2022,
+    "filingStatus": "sf",
+    "buckets": [
+      {
+        "lower": 0,
+        "upper": 4350,
+        "withholdAmount": 0,
+        "pct": 0
+      },
+      {
+        "lower": 4350,
+        "upper": 14625,
+        "withholdAmount": 0,
+        "pct": 10
+      },
+      {
+        "lower": 14625,
+        "upper": 46125,
+        "withholdAmount": 1027.50,
+        "pct": 12
+      },
+      {
+        "lower": 46125,
+        "upper": 93425,
+        "withholdAmount": 4807.50,
+        "pct": 22
+      },
+      {
+        "lower": 93425,
+        "upper": 174440,
+        "withholdAmount": 15213.50,
+        "pct": 24
+      },
+      {
+        "lower": 174440,
+        "upper": 220300,
+        "withholdAmount": 34647.50,
+        "pct": 32
+      },
+      {
+        "lower": 220300,
+        "upper": 544250,
+        "withholdAmount": 49335.50,
+        "pct": 35
+      },
+      {
+        "lower": 544250,
+        "upper": false,
+        "withholdAmount": 162718,
+        "pct": 37
+      }
+    ]
+  }
+]
