@@ -3,7 +3,7 @@
     <h1>Tax Model</h1>
 
     <h2>Earnings</h2>
-    <div>
+    <div class="">
       <h4>Group Term Life</h4>
       <input type="text">
     </div>
